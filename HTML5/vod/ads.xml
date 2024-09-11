@@ -1,0 +1,42 @@
+<VAST version="2.0">
+<Ad id="pre-roll-0">
+<InLine>
+<AdSystem>2.0</AdSystem>
+<AdTitle>Sample</AdTitle>
+<Impression/>
+<Creatives>
+<Creative sequence="1" id="2">
+<Linear>
+<Duration>00:02:00</Duration>
+<AdParameters> </AdParameters>
+<MediaFiles>
+<MediaFile delivery="progressive" bitrate="400" type="video/mp4">
+<URL>https://sv-pt.ru/old/document/PluginWordPressVideoadshtml5/reklama.mp4</URL>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="post-roll-0">
+<InLine>
+<AdSystem>2.0</AdSystem>
+<AdTitle>Sample</AdTitle>
+<Impression/>
+<Creatives>
+<Creative sequence="1" id="2">
+<Linear>
+<Duration>00:02:00</Duration>
+<AdParameters> </AdParameters>
+<MediaFiles>
+<MediaFile delivery="progressive" bitrate="400" type="video/mp4">
+<URL></URL>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>

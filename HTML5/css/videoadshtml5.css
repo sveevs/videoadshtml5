@@ -1,0 +1,362 @@
+span.skipBtn {
+  display:none;
+  padding: 7px 10px;
+  border-radius: 5px;
+  background-color: #ccc;
+  font-family: sans-serif;
+  cursor: pointer;
+  position:relative;
+  top:-145px;
+  /*top:1px;*/
+  bottom: 0;
+  float:right; 
+  font-size:11px;
+  color:white;
+  
+}
+span.skipBtn.disabled {
+  background-color: #333;
+}
+
+div.Btnw {
+	width:100%;
+	height:50px;
+	border-color:red;
+	border-radius:5px;
+	color:blue;	
+}
+
+.BtnVarActiv {
+  padding: 7px 10px;
+  border-radius: 5px;
+  background: linear-gradient(to top left, powderblue, yellow) !important;
+  font-family: sans-serif;
+  cursor: pointer;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue;
+}
+
+
+div.BtnBlock{
+	width:100%;
+}
+
+div.BtnBlockLeft{
+	width:94%;
+	float:left;
+	/*display:table;
+	background-color:red;*/
+	padding: 4px 6px;
+	
+}
+
+div.BtnBlockRight{
+	width:5%;
+	float:left;
+	/*display:table;
+	background-color:blue;*/
+	padding: 4px 6px;
+}
+
+
+div.BtnVar1 {
+  padding: 4px 6px;
+  margin:1px;
+  border-radius: 5px;
+  background: linear-gradient(to top left, powderblue, pink);
+  font-family: sans-serif;
+  cursor: pointer;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue; 
+}
+
+div.BtnVar1:hover {
+  padding: 4px 6px;
+  margin:1px;
+  border-radius: 8px;
+  background: linear-gradient(to top left, powderblue, brown);
+  font-family: sans-serif;
+  cursor: pointer;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue; 
+}
+
+
+div.BtnVar2 {
+  padding: 4px 6px;
+  margin:1px;
+  border-radius: 5px;
+  background: linear-gradient(to top left, powderblue, pink);
+  font-family: sans-serif;
+  cursor: pointer;
+  margin-left:2px;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue;
+}
+
+div.BtnVar2:hover {
+  padding: 4px 6px;
+  margin:1px; 
+  border-radius: 8px;
+  background: linear-gradient(to top left, powderblue, brown);
+  font-family: sans-serif;
+  cursor: pointer;
+  margin-left:2px;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue;
+}
+
+div.BtnVar3 {
+  padding: 4px 6px;
+  margin:1px; 
+  border-radius: 5px;
+  background: linear-gradient(to top left, powderblue, pink);
+  font-family: sans-serif;
+  cursor: pointer;
+  margin-left:2px;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue;
+}
+
+div.BtnVar3:hover {
+  padding: 4px 6px;
+  margin:1px; 
+  border-radius: 8px;
+  background: linear-gradient(to top left, powderblue, brown);
+  font-family: sans-serif;
+  cursor: pointer;
+  margin-left:2px;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue;
+}
+
+div.BtnVar4 {
+  padding: 4px 6px;
+  margin:1px; 
+  border-radius: 5px;
+  background: linear-gradient(to top left, powderblue, pink);
+  font-family: sans-serif;
+  cursor: pointer;
+  margin-left:2px;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue;
+}
+
+div.BtnVar4:hover {
+  padding: 4px 6px;
+  margin:1px; 
+  border-radius: 8px;
+  background: linear-gradient(to top left, powderblue, brown);
+  font-family: sans-serif;
+  cursor: pointer;
+  margin-left:2px;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue;
+}
+
+div.BtnVar5 {
+  padding: 4px 6px;
+  margin:1px; 
+  border-radius: 5px;
+  background: linear-gradient(to top left, powderblue, pink);
+  font-family: sans-serif;
+  cursor: pointer;
+  margin-left:2px;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue; 
+}
+
+div.BtnVar5:hover {
+  padding: 4px 6px;
+  margin:1px; 
+  border-radius: 8px;
+  background: linear-gradient(to top left, powderblue, brown);
+  font-family: sans-serif;
+  cursor: pointer;
+  margin-left:2px;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue; 
+}
+
+div.BtnVar6 {
+  padding: 4px 6px;
+  margin:1px; 
+  border-radius: 5px;
+  background: linear-gradient(to top left, powderblue, pink);
+  font-family: sans-serif;
+  cursor: pointer;
+  margin-left:2px;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue;
+}
+
+div.BtnVar6:hover {
+  padding: 4px 6px;
+  margin:1px; 
+  border-radius: 8px;
+  background: linear-gradient(to top left, powderblue, brown);
+  font-family: sans-serif;
+  cursor: pointer;
+  margin-left:2px;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue;
+}
+
+div.BtnVar7 {
+  padding: 4px 6px;
+  margin:1px; 
+  border-radius: 5px;
+  background: linear-gradient(to top left, powderblue, pink);
+  font-family: sans-serif;
+  cursor: pointer;
+  margin-left:2px;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue;
+}
+
+div.BtnVar7:hover {
+  padding: 4px 6px;
+  margin:1px; 
+  border-radius: 8px;
+  background: linear-gradient(to top left, powderblue, brown);
+  font-family: sans-serif;
+  cursor: pointer;
+  margin-left:2px;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue;
+}
+
+div.BtnVar8 {
+  padding: 4px 6px;
+  margin:1px; 
+  border-radius: 5px;
+  background: linear-gradient(to top left, powderblue, pink);
+  font-family: sans-serif;
+  cursor: pointer;
+  margin-left:2px;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue;
+}
+
+div.BtnVar8:hover {
+  padding: 4px 6px;
+  margin:1px; 
+  border-radius: 8px;
+  background: linear-gradient(to top left, powderblue, brown);
+  font-family: sans-serif;
+  cursor: pointer;
+  margin-left:2px;
+  left:1px;
+  float:left; 
+  font-size:11px;
+  color:blue;
+}
+
+/*video::-webkit-media-controls-panel {
+  display:none !important;
+}*/
+
+div.divleft
+	{
+	float:left;
+	width:95px;
+	font-size:11px;
+	color:white;
+	}
+
+#div_schet
+	{
+	float:left;
+	width:20px;
+	color:white;
+	}
+	
+div.urldirect{
+    border-radius: 5px;
+	background: linear-gradient(to top left, powderblue, pink);
+	font-size:17px;
+	width:30px;
+	height:30px;
+	text-align:right;
+	float:right; 
+	padding-right:5px;
+}	
+
+div.urldirect:hover{
+    border-radius: 8px;
+	background: linear-gradient(to top left, powderblue, brown);
+	font-size:17px;
+	width:30px;
+	height:30px;
+	text-align:right;
+	float:right; 
+	padding-right:5px;
+}
+
+/*  Контекстное меню */ 
+
+.contextmenu {
+display: none;
+/*display: block;*/
+position: absolute;
+width: 60px;
+margin: 0;
+padding: 0;
+background: #FFFFFF;
+border-radius: 5px;
+list-style: none;
+box-shadow: 0 15px 35px rgba(50,50,90,0.1), 0 5px 15px rgba(0,0,0,0.07);
+overflow: hidden;
+z-index: 999999;
+}
+ 
+.contextmenu li {
+border-left: 3px solid transparent;
+transition: ease .2s;
+}
+ 
+.contextmenu li a {
+display: block;
+padding: 10px;
+color: #B0BEC5;
+text-decoration: none;
+transition: ease .2s;
+}
+ 
+.contextmenu li:hover {
+border-left: 3px solid #9C27B0;
+}
+ 
+.contextmenu li:hover a { color: #FFFFFF; }
